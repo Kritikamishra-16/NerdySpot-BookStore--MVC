@@ -1,0 +1,12 @@
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\bin\Debug\net7.0\NerdySpot.Utility.deps.json
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\bin\Debug\net7.0\NerdySpot.Utility.dll
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\bin\Debug\net7.0\NerdySpot.Utility.pdb
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.csproj.AssemblyReference.cache
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.AssemblyInfoInputs.cache
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.AssemblyInfo.cs
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.csproj.CoreCompileInputs.cache
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.dll
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\refint\NerdySpot.Utility.dll
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\NerdySpot.Utility.pdb
+C:\ASP.NETMVC_dotnetMastery\NerdySpot\NerdySpotWeb\NerdySpot.Utility\obj\Debug\net7.0\ref\NerdySpot.Utility.dll

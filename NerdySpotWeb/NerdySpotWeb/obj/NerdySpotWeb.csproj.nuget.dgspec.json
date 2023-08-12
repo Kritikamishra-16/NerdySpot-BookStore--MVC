@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpotWeb\\NerdySpotWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\NerdySpot.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\NerdySpot.DataAccess.csproj",
+        "projectName": "NerdySpot.DataAccess",
+        "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\NerdySpot.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kritikamishra\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kritikamishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\NerdySpot.Models.csproj": {
+                "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\NerdySpot.Models.csproj"
+              },
+              "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\NerdySpot.Utility.csproj": {
+                "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\NerdySpot.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\NerdySpot.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\NerdySpot.Models.csproj",
+        "projectName": "NerdySpot.Models",
+        "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\NerdySpot.Models.csproj",
+        "packagesPath": "C:\\Users\\kritikamishra\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kritikamishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\NerdySpot.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\NerdySpot.Utility.csproj",
+        "projectName": "NerdySpot.Utility",
+        "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\NerdySpot.Utility.csproj",
+        "packagesPath": "C:\\Users\\kritikamishra\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kritikamishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpotWeb\\NerdySpotWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpotWeb\\NerdySpotWeb.csproj",
+        "projectName": "NerdySpotWeb",
+        "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpotWeb\\NerdySpotWeb.csproj",
+        "packagesPath": "C:\\Users\\kritikamishra\\.nuget\\packages\\",
+        "outputPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpotWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kritikamishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\NerdySpot.DataAccess.csproj": {
+                "projectPath": "C:\\ASP.NETMVC_dotnetMastery\\NerdySpot\\NerdySpotWeb\\NerdySpot.DataAccess\\NerdySpot.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Caching.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.27.0, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
